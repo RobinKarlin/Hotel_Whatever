@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1M/52QTGL6GEVUS164X8REJSO.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZE/44V6TQ6WRU89X42BA37P2F.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KR/GDFTD55C95S96UVG43EYO0.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Guy.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/Enemy/BP_Enemy.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/Animations/AI/WalkBlendspace1D.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/Animations/AI/AP_Enemy.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/UI/HealthWidget.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1P/X5LTM2MVHCDBLIGIYV850U.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/S8/DZBJAY4XR6K1O2O5E0S3QD.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/2J/RGBRSDFPUR9SN4OTRJ0WVG.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M4/OT86SAAUR3VOCOK1ABIKBN.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FQ/OGRPCGXAG38N2CGQLNU3MD.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EU/BR5V8D2BM61BZULGS2E4B2.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IA/2IK0MXHL8T1TY2HWWSTVAM.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q6/IFE2CD7DG4P5LPUSYEBGOO.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_diffuse.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_diffuse_ncl1_1.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_diffuse_ncl1_2.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_diffuse_ncl1_3.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_normal.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_normal_ncl1_1.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_normal_ncl1_2.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_normal_ncl1_3.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_specular.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_specular_ncl1_1.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_specular_ncl1_2.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Boss_specular_ncl1_3.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Cigar_Mat.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Clothes_MAT.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Clothes_MAT_ncl1_1.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Eyes_MAT.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Eyes_MAT_ncl1_1.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Skin_MAT.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Walking_guy.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Walking_guy_Anim.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Walking_guy_PhysicsAsset.uasset",
+				"D:/Game Projects/UE5_Hotell/Hotell/Content/NPC/NPC_01/Walking_guy_Skeleton.uasset"
+			]
+		}
+	]
+}
